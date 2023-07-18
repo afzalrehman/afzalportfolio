@@ -404,7 +404,7 @@
 
     .about {
         height: 90rem;
-        background: linear-gradient(0.25turn, #eeeeee, #fad7d7);
+        /* background: linear-gradient(0.25turn, #eeeeee, #fad7d7); */
 
     }
 
@@ -428,7 +428,7 @@
 
     .PopularServices {
         /* background-color: #f7dddc00; */
-        background: #FFF9E4;
+        /* background: #FFF9E4; */
         height: 115rem;
     }
 
@@ -496,7 +496,7 @@
 
     .PopularServices {
         /* background-color: #f7dddc00; */
-        background: #FFF9E4;
+        /* background: #FFF9E4; */
         height: 115rem;
     }
 }
